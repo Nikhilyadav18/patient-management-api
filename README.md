@@ -134,6 +134,19 @@ http://127.0.0.1:8000/redoc
 - Swagger Documentation
 
 ---
+## API Preview
+
+### Swagger API Documentation
+
+![Swagger API](screenshots/api_docs.png)
+
+### Create Patient Endpoint
+
+![Create Patient](screenshots/post_create.png)
+
+### Update Patient Endpoint
+
+![Update Patient](screenshots/put_request_update.png)
 
 ## Future Improvements
 
